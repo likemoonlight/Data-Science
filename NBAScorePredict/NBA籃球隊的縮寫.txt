@@ -1,0 +1,32 @@
+Abbreviation/
+Acronym	Franchise
+ATL	Atlanta Hawks亞特蘭大老鷹隊
+BKN	Brooklyn Nets布魯克林籃網
+BOS	Boston Celtics波士頓凱爾特人隊
+CHA	Charlotte Hornets夏洛特黃蜂隊
+CHI	Chicago Bulls芝加哥公牛隊
+CLE	Cleveland Cavaliers克利夫蘭騎士隊
+DAL	Dallas Mavericks達拉斯小牛隊
+DEN	Denver Nuggets丹佛掘金
+DET	Detroit Pistons底特律活塞
+GSW	Golden State Warriors金州勇士隊
+HOU	Houston Rockets休斯頓火箭隊
+IND	Indiana Pacers印第安納步行者隊
+LAC	Los Angeles Clippers洛杉磯快船
+LAL	Los Angeles Lakers洛杉磯湖人隊
+MEM	Memphis Grizzlies孟菲斯灰熊隊
+MIA	Miami Heat邁阿密熱火
+MIL	Milwaukee Bucks密爾沃基雄鹿
+MIN	Minnesota Timberwolves明尼蘇達森林狼
+NOP	New Orleans Pelicans新奧爾良鵜鶘
+NYK	New York Knicks紐約尼克斯
+OKC	Oklahoma City Thunder俄克拉荷馬城雷霆
+ORL	Orlando Magic奧蘭多魔術
+PHI	Philadelphia 76ers費城76人隊
+PHX	Phoenix Suns鳳凰太陽隊
+POR	Portland Trail Blazers波特蘭開拓者隊
+SAC	Sacramento Kings薩克拉曼多國王
+SAS	San Antonio Spurs聖安東尼奧馬刺
+TOR	Toronto Raptors多倫多猛龍隊
+UTA	Utah Jazz猶他爵士
+WAS	Washington Wizards華盛頓奇才隊
